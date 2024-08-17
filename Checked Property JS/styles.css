@@ -1,0 +1,15 @@
+*{
+    font-family: monospace;
+    font-size: 1.2em;
+    text-transform: capitalize;
+}
+
+input[type = "checkbox"]{
+
+    width: 15px;
+    height: 15px;
+}
+input[type = "radio"]{
+    width: 15px;
+    height: 15px;
+}
